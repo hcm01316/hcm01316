@@ -8,8 +8,5 @@
 - **데이터베이스**: Oracle, MySQL
 - **기타**: Docker, AWS, Jenkins
 
-## 📈 GitHub 통계
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
-
 ## 📣 연락처
 - 📧 이메일: hcm01316@naver.com
